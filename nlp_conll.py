@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python
 
 # generates a dict of forms for each train/test set of conll data.
